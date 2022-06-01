@@ -11,4 +11,4 @@
         Media Companies analytics tools
         amplitude.com
         drip.com
-    bitrise, sentry, 
+    bitrise, sentry, swagger

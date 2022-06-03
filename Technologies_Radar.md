@@ -4,7 +4,7 @@
 - `Design`: Framer, Sketch, Canva, Creately, Contentful, Hugo
 - `Payments`: Squareup, Stripe, FastSpring
 - `Code`: Ionic
-- `DevOps`: bitrise, sentry, swagger, jfrog
+- `DevOps`: bitrise, sentry, swagger, jfrog, firebase, supabase,
 - `Legal stuff`: TermsFeed, Termly, GDPRPrivacyPolicy (.net) ((checkout first PrivPol generator for additional metioned there tools (about analitics etc. - like e.g. mouseflow)))
 - `Random`: Kaggle, dribbble
 - `JavaScript`: redux, MST, Immutable.js

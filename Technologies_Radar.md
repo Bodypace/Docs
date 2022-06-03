@@ -1,5 +1,13 @@
 
-> note: useful to go to github "awesome" lists and find relavant stuff
+## Ways of finding useful stuff
+
+- github "awesome" lists
+- for each tool google alternatives to find more stuff
+- ask friends that work in relevant business
+- check company stacks, blogs, job requirements etc.
+- books & tutorials about work in some domain
+
+## Radar / Notes / Maybe used / Unused but considered
 
 - `Design`: Framer, Sketch, Canva, Creately, Contentful, Hugo
 - `Payments`: Squareup, Stripe, FastSpring

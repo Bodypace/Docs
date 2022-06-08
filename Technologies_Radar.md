@@ -9,7 +9,7 @@
 
 ## Radar / Notes / Maybe used / Unused but considered
 
-- `Design`: Framer, Sketch, Canva, Creately, Contentful, Hugo
+- `Design`: Framer, Sketch, Canva, Creately, Contentful, Hugo, Webflow
 - `Payments`: Squareup, Stripe, FastSpring
 - `Code`: Ionic, Flutter, Web Components, Web Assembly, Vue, Svelte, Next.js, NuxtJS, Polymer, Bootstrap, Sass, NativeScript
 - `DevOps`: jfrog, supabase,

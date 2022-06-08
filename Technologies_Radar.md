@@ -11,7 +11,7 @@
 
 - `Design`: Framer, Sketch, Canva, Creately, Contentful, Hugo, Webflow
 - `Payments`: Squareup, Stripe, FastSpring
-- `Code`: Ionic, Flutter, Web Components, Web Assembly, Vue, Svelte, Next.js, NuxtJS, Polymer, Bootstrap, Sass, NativeScript
+- `Code`: Ionic, Flutter, Web Components, Web Assembly, Vue, Svelte, Next.js, NuxtJS, Polymer, Bootstrap, Sass, NativeScript, cypress
 - `DevOps`: jfrog, supabase,
 - `Legal stuff`: TermsFeed, Termly, GDPRPrivacyPolicy (.net) ((checkout first PrivPol generator for additional metioned there tools (about analitics etc. - like e.g. mouseflow)))
 - `Random`: Kaggle, dribbble

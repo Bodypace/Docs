@@ -17,6 +17,6 @@
 - `DevOps`: jfrog, supabase
 - `Legal stuff`: TermsFeed, Termly, GDPRPrivacyPolicy (.net) ((checkout first PrivPol generator for additional metioned there tools (about analitics etc. - like e.g. mouseflow)))
 - `Random`: Kaggle, dribbble
-- `JavaScript`: redux, MST, Immutable.js, react-motion, formik, yup
+- `JavaScript`: redux, MST, Immutable.js, react-motion, Format.JS
 - `Statistics/Telemetry/Analytics`: Media Companies analytics tools, amplitude.com, drip.com
 - `Inspiration`: unusualwhales, uprise (.us), stocktwits (.com)

@@ -8,7 +8,7 @@
 - conferences, books & tutorials about work in some domain
 - use tools like [openbase](https://openbase.com) or read stuff like [medium](https://medium.com/)
 
-## Radar / Notes / Maybe used / Unused but considered
+## Radar / Notes / Maybe will use / Unused but considered
 
 - `Org`: [aragon](https://aragon.org/)
 - `Design`: Framer, Sketch, Canva, Creately, Contentful, Hugo, Webflow, CodeSandbox, [FlutterFlow](https://flutterflow.io/)

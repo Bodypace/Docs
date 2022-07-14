@@ -10,7 +10,7 @@
 
 ## Radar / Notes / Maybe will use / Unused but considered
 
-- `Org`: [aragon](https://aragon.org/)
+- `Org`: [aragon](https://aragon.org/), youtrack (jetbrains)
 - `Design`: Framer, Sketch, Canva, Creately, Contentful, Hugo, Webflow, CodeSandbox, [FlutterFlow](https://flutterflow.io/)
 - `Payments`: Squareup, Stripe, FastSpring
 - `Code`: Ionic, Flutter, Web Components, Web Assembly, Vue, Svelte, Next.js, NuxtJS, Polymer, Bootstrap, Sass, NativeScript, cypress, [ignite](https://github.com/infinitered/ignite), gitpod, github codespaces, redwoodjs, zustand
